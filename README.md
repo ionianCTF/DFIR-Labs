@@ -1,7 +1,5 @@
 # Digital Forensics Lab - CYL2002
 
-https://limewire.com/d/29LUC#cNqND505MI
-
 This repository contains the course material for the digital forensics lab offered at FAST National University of Computer and Emerging Sciences, available for public use and learning.
 
 # Course Outline
